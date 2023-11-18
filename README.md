@@ -74,4 +74,8 @@ Smokeless_UMAF is a tool that lets you go deeper into the bios. In my case, the 
 
 If this still doesn't work, check the NootedRed kext folder in your efi and make sure it was extracted correctly and check the plist to make sure that it is also present there. If all is good in those places, try a different SMBIOS value.
 
+# Credits
+**I do not own nor did I develop any of the files or programs mentioned in this documentation.**
+Thank you to all those that made this possible.
+
 
