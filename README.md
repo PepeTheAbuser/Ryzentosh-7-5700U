@@ -1,5 +1,19 @@
 # Ryzentosh 7 5700U
-My documentation on putting MacOS on a Lenovo IdeaPad Flex 5-14ALC05 with Ryzen 7 5700U. There is some jumping around between different guides that I used to get MacOS working on my laptop. First we will start with Dortania's OpenCore guide.
+My documentation on putting MacOS on a Lenovo IdeaPad Flex 5-14ALC05 with Ryzen 7 5700U.
+
+Specs:
+* CPU - Ryzen 7 5700U
+* RAM - 16 GB DDR4 3200mhz
+* GPU - Vega 8
+* SSD - SAMSUNG MZALQ512HBLU-00BL2
+* WIFI - Intel 8265
+* Audio - 1022:15e3
+* Touch Screen - WACF2200 (TPL1)
+* Touch Pad - ELAN06FA (TPDD)
+* Keyboard - Standard PS/2 Keyboard
+* BIOS - GJCN33WW
+* [My EFI Folder](https://drive.google.com/drive/folders/1E7MeNrztMbUTBPhgM3jR1KrwGhfGEdZu?usp=drive_link)
+ There is some jumping around between different guides that I used to get MacOS working on my laptop. First we will start with Dortania's OpenCore guide.
 
 # [Dortania Opencore Guide](https://dortania.github.io/OpenCore-Install-Guide/prerequisites.html)
 Following the dortania opencore guide I downloaded Monterey using the [Windows](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/windows-install.html) method then continued on to [adding the base opencore files](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/opencore-efi.html)
