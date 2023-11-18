@@ -15,7 +15,7 @@ Specs:
 * [My EFI Folder](https://drive.google.com/drive/folders/1E7MeNrztMbUTBPhgM3jR1KrwGhfGEdZu?usp=drive_link)
 
   
- There is some jumping around between different guides that I used to get MacOS working on my laptop. First we will start with Dortania's OpenCore guide.
+ There is some jumping around between different guides that I used to get MacOS working on my laptop. First I started with Dortania's OpenCore guide.
 
 # [Dortania Opencore Guide](https://dortania.github.io/OpenCore-Install-Guide/prerequisites.html)
 Following the dortania opencore guide I downloaded Monterey using the [Windows](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/windows-install.html) method then continued on to [adding the base opencore files](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/opencore-efi.html)
