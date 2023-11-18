@@ -1,0 +1,11 @@
+CPU - Ryzen 7 5700U
+RAM - 16 GB DDR4 3200mhz
+GPU - Vega 8
+SSD - SAMSUNG MZALQ512HBLU-00BL2
+WIFI - Intel 8265
+Audio - 1022:15e3
+Touch Screen - WACF2200 (TPL1)
+Touch Pad - ELAN06FA (TPDD)
+Keyboard - Standard PS/2 Keyboard
+BIOS - GJCN33WW
+
